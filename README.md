@@ -7,6 +7,10 @@ My current projects are:
 - [Atbash, a universal controller signal converter](https://github.com/Atbash-Controllers/Atbash)
 - [Laceration, a Scratch (sb3) to C++ transpiler](https://github.com/Laceration-Scratch/Laceration-Transpiler)
 
+What I know:
+- Python
+- Web development
+
 What I am learning:
 - C++
-- Game development (SDL, Open GL, etc.)
+- Game development (SDL, OpenGL, etc.)
