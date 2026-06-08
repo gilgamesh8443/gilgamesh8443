@@ -1,6 +1,6 @@
 ## Hello, I am Gilgamesh.
 
-I am a huge computer geek. I am very passionate about video games, emulation, and open-source.
+I am a huge computer geek. I am very passionate about video games, emulation, and open-source. I hate every major tech company.
 
 My current projects are:
 - [Word of the Day](https://wotd.site/)
@@ -10,7 +10,3 @@ My current projects are:
 What I am learning:
 - C++
 - Game development (SDL, Open GL, etc.)
-
-> "I'm literally gay."
-> 
-> — Alan Turing
