@@ -1,6 +1,6 @@
 ## Hello, I am Gilgamesh.
 
-I am a huge computer geek. I am very passionate about video games, emulation, and open-source. I hate every major tech company and generative AI.
+I am a huge computer geek. I am very passionate about video games, emulation, and open-source stuff.
 
 My current projects are:
 - [Word of the Day](https://wotd.site/)
